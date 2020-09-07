@@ -3,3 +3,4 @@
 3. MySQL
 4. Deploy on AWS
 5. Website : www.mixturelab.com/jupiter
+![image]https://github.com/joycechen2014/recommendation/blob/master/structure.jpg
