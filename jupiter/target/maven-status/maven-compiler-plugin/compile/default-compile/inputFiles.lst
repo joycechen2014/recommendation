@@ -1,0 +1,15 @@
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/servlet/TestServlet.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/servlet/SearchServlet.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/servlet/ExampleBookServlet.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/external/GitHubClient.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/servlet/RecommendationServlet.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/ExampleCoordinates.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/ExtractResponseItem.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/ExtractRequestBody.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/Item.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/external/MonkeyLearnClient.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/Extraction.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/db/MySQLTableCreation.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/entity/ExampleJob.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/servlet/ExampleJobServlet.java
+/Users/jennychen/IdeaProjects/jupiter/src/main/java/com/laioffer/job/db/MySQLDBUtil.java
